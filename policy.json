@@ -1,0 +1,17 @@
+{
+  "blockAll": false,
+  "title": "",
+  "message": "",
+  "android": {
+    "minVersion": "",
+    "blocked": [],
+    "latest": "1.0.0",
+    "url": "https://play.google.com/store/apps/details?id=com.xlntsmmr.invest"
+  },
+  "desktop": {
+    "minVersion": "",
+    "blocked": [],
+    "latest": "1.0.0",
+    "url": "https://github.com/junha8070/hannun-status/releases"
+  }
+}
