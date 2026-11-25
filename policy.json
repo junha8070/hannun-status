@@ -1,7 +1,7 @@
 {
   "blockAll": false,
-  "title": "점검 테스트 중이에요",
-  "message": "개발자가 버전 차단 기능을 시험하고 있어요. 몇 분 뒤 다시 확인하기를 누르면 풀려요.",
+  "title": "",
+  "message": "",
   "android": {
     "minVersion": "",
     "blocked": [],
@@ -10,9 +10,7 @@
   },
   "desktop": {
     "minVersion": "",
-    "blocked": [
-      "1.0.0"
-    ],
+    "blocked": [],
     "latest": "1.0.0",
     "url": "https://github.com/junha8070/hannun-status/releases"
   }
