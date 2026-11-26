@@ -1,17 +1,18 @@
 {
-  "blockAll": false,
-  "title": "",
-  "message": "",
-  "android": {
-    "minVersion": "",
-    "blocked": [],
-    "latest": "1.0.0",
-    "url": "https://play.google.com/store/apps/details?id=com.xlntsmmr.invest"
-  },
-  "desktop": {
-    "minVersion": "",
-    "blocked": [],
-    "latest": "1.0.0",
-    "url": "https://github.com/junha8070/hannun-status/releases"
-  }
+    "title": "최종 연동 테스트 중이에요",
+    "message": "개발자가 한눈 상태 관리 프로그램으로 버전 차단을 시험하고 있어요. 곧 풀려요.",
+    "android": {
+        "blocked": [
+            "1.0.0"
+        ],
+        "latest": "1.0.0",
+        "url": "https://play.google.com/store/apps/details?id=com.xlntsmmr.invest"
+    },
+    "desktop": {
+        "blocked": [
+            "1.0.0"
+        ],
+        "latest": "1.0.0",
+        "url": "https://github.com/junha8070/hannun-status/releases"
+    }
 }
